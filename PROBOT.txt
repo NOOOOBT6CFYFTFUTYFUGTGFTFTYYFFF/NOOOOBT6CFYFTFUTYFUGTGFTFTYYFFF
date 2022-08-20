@@ -1,0 +1,1 @@
+{"ip":"SPACE_SMP_4089.aternos.me","name":"BOT1","port":"25552"}
